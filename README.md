@@ -39,8 +39,6 @@ PocketNewsSync-AstroBox-Plugin/
 py -3 scripts/build.py --package
 ```
 
-ABP 仅包含清单、WASM 和图标，清单的 `additional_files` 为空，不包含 `licenses/`。完整源码 ZIP 由开发工程生成。
-
 ## 完整源码
 
 [下载 1.0.0 完整源码 ZIP](https://github.com/Nyx-233/PocketNewsSync-AstroBox-Plugin/releases/download/v1.0.0/PocketNewsSync-1.0.0-source.zip)。源码包包含 Rust 源码、分类模型、WIT、训练策略、构建脚本、测试及项目 LICENSE，可独立重新构建。
