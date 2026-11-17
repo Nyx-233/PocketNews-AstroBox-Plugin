@@ -1,4 +1,0 @@
-Package: new_debug_unreachable 1.0.6
-Authors: Matt Brubeck <mbrubeck@limpet.net>, Jonathan Reem <jonathan.reem@gmail.com>
-Repository: https://github.com/mbrubeck/rust-debug-unreachable
-Unmodified source: https://crates.io/api/v1/crates/new_debug_unreachable/1.0.6/download

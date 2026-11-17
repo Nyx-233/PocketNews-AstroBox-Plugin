@@ -1,4 +1,0 @@
-Package: zmij 1.0.23
-Authors: David Tolnay <dtolnay@gmail.com>
-Repository: https://github.com/dtolnay/zmij
-Unmodified source: https://crates.io/api/v1/crates/zmij/1.0.23/download

@@ -1,4 +1,0 @@
-Package: slab 0.4.12
-Authors: Carl Lerche <me@carllerche.com>
-Repository: https://github.com/tokio-rs/slab
-Unmodified source: https://crates.io/api/v1/crates/slab/0.4.12/download

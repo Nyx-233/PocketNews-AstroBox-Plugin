@@ -1,4 +1,0 @@
-Package: bytes 1.12.1
-Authors: Carl Lerche <me@carllerche.com>, Sean McArthur <sean@seanmonstar.com>
-Repository: https://github.com/tokio-rs/bytes
-Unmodified source: https://crates.io/api/v1/crates/bytes/1.12.1/download

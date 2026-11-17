@@ -1,4 +1,0 @@
-Package: typenum 1.20.1
-Authors: 
-Repository: https://github.com/paholg/typenum
-Unmodified source: https://crates.io/api/v1/crates/typenum/1.20.1/download

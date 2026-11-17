@@ -1,4 +1,0 @@
-Package: id-arena 2.3.0
-Authors: Nick Fitzgerald <fitzgen@gmail.com>, Aleksey Kladov <aleksey.kladov@gmail.com>
-Repository: https://github.com/fitzgen/id-arena
-Unmodified source: https://crates.io/api/v1/crates/id-arena/2.3.0/download

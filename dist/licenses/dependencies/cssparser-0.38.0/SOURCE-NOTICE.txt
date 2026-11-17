@@ -1,4 +1,0 @@
-Package: cssparser 0.38.0
-Authors: Simon Sapin <simon.sapin@exyr.org>
-Repository: https://github.com/servo/rust-cssparser
-Unmodified source: https://crates.io/api/v1/crates/cssparser/0.38.0/download

@@ -1,4 +1,0 @@
-Package: syn 3.0.9
-Authors: David Tolnay <dtolnay@gmail.com>
-Repository: https://github.com/dtolnay/syn
-Unmodified source: https://crates.io/api/v1/crates/syn/3.0.9/download

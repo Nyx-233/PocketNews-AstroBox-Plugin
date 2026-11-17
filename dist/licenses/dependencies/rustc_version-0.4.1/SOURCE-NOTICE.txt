@@ -1,4 +1,0 @@
-Package: rustc_version 0.4.1
-Authors: 
-Repository: https://github.com/djc/rustc-version-rs
-Unmodified source: https://crates.io/api/v1/crates/rustc_version/0.4.1/download

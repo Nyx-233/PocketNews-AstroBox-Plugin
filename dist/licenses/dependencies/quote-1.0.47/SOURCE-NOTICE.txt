@@ -1,4 +1,0 @@
-Package: quote 1.0.47
-Authors: David Tolnay <dtolnay@gmail.com>
-Repository: https://github.com/dtolnay/quote
-Unmodified source: https://crates.io/api/v1/crates/quote/1.0.47/download

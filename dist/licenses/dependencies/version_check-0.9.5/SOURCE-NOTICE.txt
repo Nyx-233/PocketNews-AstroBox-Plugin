@@ -1,4 +1,0 @@
-Package: version_check 0.9.5
-Authors: Sergio Benitez <sb@sergio.bz>
-Repository: https://github.com/SergioBenitez/version_check
-Unmodified source: https://crates.io/api/v1/crates/version_check/0.9.5/download

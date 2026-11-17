@@ -1,4 +1,0 @@
-Package: wit-component 0.247.0
-Authors: Peter Huene <peter@huene.dev>
-Repository: https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wit-component
-Unmodified source: https://crates.io/api/v1/crates/wit-component/0.247.0/download

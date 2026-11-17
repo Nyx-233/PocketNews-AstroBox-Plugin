@@ -1,4 +1,0 @@
-Package: ahash 0.8.12
-Authors: Tom Kaitchuck <Tom.Kaitchuck@gmail.com>
-Repository: https://github.com/tkaitchuck/ahash
-Unmodified source: https://crates.io/api/v1/crates/ahash/0.8.12/download

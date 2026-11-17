@@ -1,4 +1,0 @@
-Package: icu_properties_data 2.4.0
-Authors: The ICU4X Project Developers
-Repository: https://github.com/unicode-org/icu4x
-Unmodified source: https://crates.io/api/v1/crates/icu_properties_data/2.4.0/download

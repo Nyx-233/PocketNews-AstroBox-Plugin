@@ -1,4 +1,0 @@
-Package: web_atoms 0.3.0
-Authors: The html5ever Project Developers
-Repository: https://github.com/servo/html5ever
-Unmodified source: https://crates.io/api/v1/crates/web_atoms/0.3.0/download

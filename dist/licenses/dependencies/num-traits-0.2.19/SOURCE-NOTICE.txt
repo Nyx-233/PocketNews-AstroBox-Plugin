@@ -1,4 +1,0 @@
-Package: num-traits 0.2.19
-Authors: The Rust Project Developers
-Repository: https://github.com/rust-num/num-traits
-Unmodified source: https://crates.io/api/v1/crates/num-traits/0.2.19/download

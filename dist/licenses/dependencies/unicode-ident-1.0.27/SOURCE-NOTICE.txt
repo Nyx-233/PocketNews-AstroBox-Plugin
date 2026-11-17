@@ -1,4 +1,0 @@
-Package: unicode-ident 1.0.27
-Authors: David Tolnay <dtolnay@gmail.com>
-Repository: https://github.com/dtolnay/unicode-ident
-Unmodified source: https://crates.io/api/v1/crates/unicode-ident/1.0.27/download

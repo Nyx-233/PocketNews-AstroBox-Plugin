@@ -1,4 +1,0 @@
-Package: utf_types 1.0.0
-Authors: Henri Sivonen <hsivonen@hsivonen.fi>
-Repository: https://github.com/hsivonen/utf_types
-Unmodified source: https://crates.io/api/v1/crates/utf_types/1.0.0/download

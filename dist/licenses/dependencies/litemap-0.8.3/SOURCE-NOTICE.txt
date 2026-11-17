@@ -1,4 +1,0 @@
-Package: litemap 0.8.3
-Authors: The ICU4X Project Developers
-Repository: https://github.com/unicode-org/icu4x
-Unmodified source: https://crates.io/api/v1/crates/litemap/0.8.3/download

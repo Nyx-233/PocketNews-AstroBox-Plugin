@@ -1,4 +1,0 @@
-Package: autocfg 1.5.1
-Authors: Josh Stone <cuviper@gmail.com>
-Repository: https://github.com/cuviper/autocfg
-Unmodified source: https://crates.io/api/v1/crates/autocfg/1.5.1/download

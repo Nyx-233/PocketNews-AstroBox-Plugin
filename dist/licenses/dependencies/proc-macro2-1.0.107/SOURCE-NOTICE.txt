@@ -1,4 +1,0 @@
-Package: proc-macro2 1.0.107
-Authors: David Tolnay <dtolnay@gmail.com>, Alex Crichton <alex@alexcrichton.com>
-Repository: https://github.com/dtolnay/proc-macro2
-Unmodified source: https://crates.io/api/v1/crates/proc-macro2/1.0.107/download

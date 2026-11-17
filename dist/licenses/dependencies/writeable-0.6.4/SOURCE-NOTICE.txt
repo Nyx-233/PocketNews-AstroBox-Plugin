@@ -1,4 +1,0 @@
-Package: writeable 0.6.4
-Authors: The ICU4X Project Developers
-Repository: https://github.com/unicode-org/icu4x
-Unmodified source: https://crates.io/api/v1/crates/writeable/0.6.4/download

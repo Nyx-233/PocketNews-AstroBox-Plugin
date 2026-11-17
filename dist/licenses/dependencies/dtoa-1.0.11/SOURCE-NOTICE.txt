@@ -1,4 +1,0 @@
-Package: dtoa 1.0.11
-Authors: David Tolnay <dtolnay@gmail.com>
-Repository: https://github.com/dtolnay/dtoa
-Unmodified source: https://crates.io/api/v1/crates/dtoa/1.0.11/download

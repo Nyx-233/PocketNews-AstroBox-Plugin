@@ -1,4 +1,0 @@
-Package: zerovec-derive 0.11.7
-Authors: Manish Goregaokar <manishsmail@gmail.com>
-Repository: https://github.com/unicode-org/icu4x
-Unmodified source: https://crates.io/api/v1/crates/zerovec-derive/0.11.7/download

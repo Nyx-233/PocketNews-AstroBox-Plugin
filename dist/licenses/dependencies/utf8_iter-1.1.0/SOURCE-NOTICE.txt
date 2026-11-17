@@ -1,4 +1,0 @@
-Package: utf8_iter 1.1.0
-Authors: Henri Sivonen <hsivonen@hsivonen.fi>
-Repository: https://github.com/hsivonen/utf8_iter
-Unmodified source: https://crates.io/api/v1/crates/utf8_iter/1.1.0/download

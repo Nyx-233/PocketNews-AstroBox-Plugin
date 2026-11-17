@@ -1,4 +1,0 @@
-Package: smallvec 1.16.4
-Authors: The Servo Project Developers
-Repository: https://github.com/servo/rust-smallvec
-Unmodified source: https://crates.io/api/v1/crates/smallvec/1.16.4/download

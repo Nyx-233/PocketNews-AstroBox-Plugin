@@ -1,4 +1,0 @@
-Package: indexmap 2.14.2
-Authors: 
-Repository: https://github.com/indexmap-rs/indexmap
-Unmodified source: https://crates.io/api/v1/crates/indexmap/2.14.2/download

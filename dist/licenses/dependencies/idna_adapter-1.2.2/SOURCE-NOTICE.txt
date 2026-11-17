@@ -1,4 +1,0 @@
-Package: idna_adapter 1.2.2
-Authors: The rust-url developers
-Repository: https://github.com/hsivonen/idna_adapter
-Unmodified source: https://crates.io/api/v1/crates/idna_adapter/1.2.2/download

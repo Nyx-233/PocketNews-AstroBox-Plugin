@@ -1,4 +1,0 @@
-Package: tendril 0.5.1
-Authors: Keegan McAllister <mcallister.keegan@gmail.com>, Simon Sapin <simon.sapin@exyr.org>, Chris Morgan <me@chrismorgan.info>
-Repository: https://github.com/servo/html5ever
-Unmodified source: https://crates.io/api/v1/crates/tendril/0.5.1/download

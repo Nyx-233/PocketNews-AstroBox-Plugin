@@ -1,4 +1,0 @@
-Package: html5ever 0.40.1
-Authors: The html5ever Project Developers
-Repository: https://github.com/servo/html5ever
-Unmodified source: https://crates.io/api/v1/crates/html5ever/0.40.1/download

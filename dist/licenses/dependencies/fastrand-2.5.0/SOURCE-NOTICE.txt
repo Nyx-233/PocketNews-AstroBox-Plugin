@@ -1,4 +1,0 @@
-Package: fastrand 2.5.0
-Authors: Stjepan Glavina <stjepang@gmail.com>
-Repository: https://github.com/smol-rs/fastrand
-Unmodified source: https://crates.io/api/v1/crates/fastrand/2.5.0/download

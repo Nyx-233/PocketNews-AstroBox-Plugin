@@ -1,4 +1,0 @@
-Package: tinystr 0.8.5
-Authors: The ICU4X Project Developers
-Repository: https://github.com/unicode-org/icu4x
-Unmodified source: https://crates.io/api/v1/crates/tinystr/0.8.5/download

@@ -1,4 +1,0 @@
-Package: zerovec 0.11.9
-Authors: The ICU4X Project Developers
-Repository: https://github.com/unicode-org/icu4x
-Unmodified source: https://crates.io/api/v1/crates/zerovec/0.11.9/download

@@ -1,4 +1,0 @@
-Package: futures-io 0.3.34
-Authors: 
-Repository: https://github.com/rust-lang/futures-rs
-Unmodified source: https://crates.io/api/v1/crates/futures-io/0.3.34/download

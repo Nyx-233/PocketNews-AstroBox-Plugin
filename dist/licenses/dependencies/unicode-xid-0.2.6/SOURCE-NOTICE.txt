@@ -1,4 +1,0 @@
-Package: unicode-xid 0.2.6
-Authors: erick.tryzelaar <erick.tryzelaar@gmail.com>, kwantam <kwantam@gmail.com>, Manish Goregaokar <manishsmail@gmail.com>
-Repository: https://github.com/unicode-rs/unicode-xid
-Unmodified source: https://crates.io/api/v1/crates/unicode-xid/0.2.6/download

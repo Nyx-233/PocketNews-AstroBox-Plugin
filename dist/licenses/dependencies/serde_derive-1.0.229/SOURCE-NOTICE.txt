@@ -1,4 +1,0 @@
-Package: serde_derive 1.0.229
-Authors: Erick Tryzelaar <erick.tryzelaar@gmail.com>, David Tolnay <dtolnay@gmail.com>
-Repository: https://github.com/serde-rs/serde
-Unmodified source: https://crates.io/api/v1/crates/serde_derive/1.0.229/download

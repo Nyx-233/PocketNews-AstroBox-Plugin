@@ -1,4 +1,0 @@
-Package: hashbrown 0.17.1
-Authors: 
-Repository: https://github.com/rust-lang/hashbrown
-Unmodified source: https://crates.io/api/v1/crates/hashbrown/0.17.1/download

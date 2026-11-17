@@ -1,4 +1,0 @@
-Package: wit-bindgen-rt 0.34.0
-Authors: 
-Repository: https://github.com/bytecodealliance/wasi-rs
-Unmodified source: https://crates.io/api/v1/crates/wit-bindgen-rt/0.34.0/download

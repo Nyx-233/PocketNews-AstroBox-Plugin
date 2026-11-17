@@ -1,4 +1,0 @@
-Package: heck 0.5.0
-Authors: 
-Repository: https://github.com/withoutboats/heck
-Unmodified source: https://crates.io/api/v1/crates/heck/0.5.0/download

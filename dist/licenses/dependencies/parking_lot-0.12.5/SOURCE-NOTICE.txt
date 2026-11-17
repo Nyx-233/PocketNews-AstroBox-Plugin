@@ -1,4 +1,0 @@
-Package: parking_lot 0.12.5
-Authors: Amanieu d'Antras <amanieu@gmail.com>
-Repository: https://github.com/Amanieu/parking_lot
-Unmodified source: https://crates.io/api/v1/crates/parking_lot/0.12.5/download

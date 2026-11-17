@@ -1,4 +1,0 @@
-Package: cpufeatures 0.2.17
-Authors: RustCrypto Developers
-Repository: https://github.com/RustCrypto/utils
-Unmodified source: https://crates.io/api/v1/crates/cpufeatures/0.2.17/download

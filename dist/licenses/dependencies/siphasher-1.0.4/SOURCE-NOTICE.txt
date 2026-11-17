@@ -1,4 +1,0 @@
-Package: siphasher 1.0.4
-Authors: Frank Denis <github@pureftpd.org>
-Repository: https://github.com/jedisct1/rust-siphash
-Unmodified source: https://crates.io/api/v1/crates/siphasher/1.0.4/download

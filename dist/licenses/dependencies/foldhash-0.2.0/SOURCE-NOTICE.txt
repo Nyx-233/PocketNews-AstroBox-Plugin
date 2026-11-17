@@ -1,4 +1,0 @@
-Package: foldhash 0.2.0
-Authors: Orson Peters <orsonpeters@gmail.com>
-Repository: https://github.com/orlp/foldhash
-Unmodified source: https://crates.io/api/v1/crates/foldhash/0.2.0/download

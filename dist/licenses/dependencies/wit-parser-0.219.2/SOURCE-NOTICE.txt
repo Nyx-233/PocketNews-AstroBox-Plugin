@@ -1,4 +1,0 @@
-Package: wit-parser 0.219.2
-Authors: Alex Crichton <alex@alexcrichton.com>
-Repository: https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wit-parser
-Unmodified source: https://crates.io/api/v1/crates/wit-parser/0.219.2/download

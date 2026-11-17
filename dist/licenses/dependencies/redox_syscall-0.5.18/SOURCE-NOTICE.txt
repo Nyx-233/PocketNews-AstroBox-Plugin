@@ -1,4 +1,0 @@
-Package: redox_syscall 0.5.18
-Authors: Jeremy Soller <jackpot51@gmail.com>
-Repository: https://gitlab.redox-os.org/redox-os/syscall
-Unmodified source: https://crates.io/api/v1/crates/redox_syscall/0.5.18/download
