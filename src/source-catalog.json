@@ -1,0 +1,371 @@
+{
+  "providers": [
+    {
+      "id": "zaobao",
+      "name": "联合早报"
+    },
+    {
+      "id": "wallstreetcn",
+      "name": "华尔街见闻"
+    },
+    {
+      "id": "36kr",
+      "name": "36氪"
+    },
+    {
+      "id": "hupu",
+      "name": "虎扑"
+    },
+    {
+      "id": "dongqiudi",
+      "name": "懂球帝"
+    },
+    {
+      "id": "ithome",
+      "name": "IT之家"
+    },
+    {
+      "id": "thepaper",
+      "name": "澎湃新闻"
+    },
+    {
+      "id": "sputniknewscn",
+      "name": "卫星通讯社"
+    },
+    {
+      "id": "cls",
+      "name": "财联社"
+    },
+    {
+      "id": "gelonghui",
+      "name": "格隆汇"
+    },
+    {
+      "id": "jin10",
+      "name": "金十数据"
+    },
+    {
+      "id": "ifeng",
+      "name": "凤凰网"
+    },
+    {
+      "id": "tencent",
+      "name": "腾讯新闻"
+    },
+    {
+      "id": "chinanews",
+      "name": "中国新闻网"
+    },
+    {
+      "id": "people",
+      "name": "人民网"
+    }
+  ],
+  "feeds": [
+    {
+      "id": "legacy-china",
+      "provider": "chinanews",
+      "category": "china",
+      "url": "https://www.chinanews.com.cn/rss/china.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-world",
+      "provider": "chinanews",
+      "category": "world",
+      "url": "https://www.chinanews.com.cn/rss/world.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-tech",
+      "provider": "ithome",
+      "category": "tech",
+      "url": "https://www.ithome.com/rss/",
+      "kind": "legacy",
+      "mixed": true,
+      "detail": "none"
+    },
+    {
+      "id": "legacy-finance",
+      "provider": "wallstreetcn",
+      "category": "finance",
+      "url": "https://api-one.wallstcn.com/apiv1/content/lives?channel=global-channel&limit=100",
+      "kind": "legacy",
+      "mixed": true,
+      "detail": "none"
+    },
+    {
+      "id": "legacy-sports",
+      "provider": "chinanews",
+      "category": "sports",
+      "url": "https://www.chinanews.com.cn/rss/sports.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-culture",
+      "provider": "chinanews",
+      "category": "culture",
+      "url": "https://www.chinanews.com.cn/rss/culture.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-hot",
+      "provider": "chinanews",
+      "category": "hot",
+      "url": "https://www.chinanews.com.cn/rss/importnews.xml",
+      "kind": "legacy",
+      "mixed": true,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-entertainment",
+      "provider": "chinanews",
+      "category": "entertainment",
+      "url": "https://www.chinanews.com.cn/wy/",
+      "kind": "html",
+      "row": "a[href*='/20'][href$='.shtml']",
+      "anchor": "",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-military",
+      "provider": "people",
+      "category": "military",
+      "url": "http://military.people.com.cn/",
+      "kind": "html",
+      "row": "a[href*='military.people.com.cn/n1/']",
+      "anchor": "",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-society",
+      "provider": "chinanews",
+      "category": "society",
+      "url": "https://www.chinanews.com.cn/rss/society.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-education",
+      "provider": "chinanews",
+      "category": "education",
+      "url": "https://www.chinanews.com.cn/rss/edu.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-health",
+      "provider": "chinanews",
+      "category": "health",
+      "url": "https://www.chinanews.com.cn/health/",
+      "kind": "html",
+      "row": "a[href*='/20'][href$='.shtml']",
+      "anchor": "",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "legacy-life",
+      "provider": "chinanews",
+      "category": "life",
+      "url": "https://www.chinanews.com.cn/rss/life.xml",
+      "kind": "legacy",
+      "mixed": false,
+      "detail": "article"
+    },
+    {
+      "id": "zaobao",
+      "provider": "zaobao",
+      "url": "https://www.zaobao.com/realtime",
+      "category": "world",
+      "kind": "html",
+      "row": "[data-testid^='test-article-card'] a[href*='story']",
+      "anchor": "",
+      "title_selector": "",
+      "encoding": "",
+      "mixed": true,
+      "channel_selector": "[data-channel], .category, .channel, .column-name",
+      "detail": "article"
+    },
+    {
+      "id": "36kr",
+      "provider": "36kr",
+      "url": "https://www.36kr.com/newsflashes",
+      "category": "tech",
+      "kind": "json",
+      "extract": "window.initialState",
+      "items": "/newsflashCatalogData/data/newsflashList/data/itemList",
+      "title": "/templateMaterial/widgetTitle",
+      "body": "/templateMaterial/widgetContent",
+      "date": "/templateMaterial/publishTime",
+      "template": "https://www.36kr.com/newsflashes/{/itemId}",
+      "row": ".newsflash-item",
+      "anchor": "a.item-title",
+      "mixed": true,
+      "channel_selector": "[data-channel], .category, .channel, .column-name",
+      "detail": "none",
+      "description_selector": ".item-desc > span",
+      "date_selector": "time"
+    },
+    {
+      "id": "hupu",
+      "provider": "hupu",
+      "url": "https://bbs.hupu.com/topic-daily-hot",
+      "category": "sports",
+      "kind": "html",
+      "row": "li.bbs-sl-web-post-body",
+      "anchor": "a.p-title",
+      "hot": true,
+      "mixed": true,
+      "channel_selector": "[data-channel], .category, .channel, .column-name",
+      "detail": "article"
+    },
+    {
+      "id": "dongqiudi",
+      "provider": "dongqiudi",
+      "url": "https://api.dongqiudi.com/app/tabs/web/1.json",
+      "category": "sports",
+      "kind": "json",
+      "items": "/articles",
+      "title": "/title",
+      "link": "/share|/url",
+      "template": "https://www.dongqiudi.com/article/{/id}",
+      "date": "/created_at",
+      "mixed": true,
+      "channel": "/category|/channel|/column",
+      "tags": "/tags|/tag",
+      "detail": "article",
+      "body": "/content|/content_html"
+    },
+    {
+      "id": "thepaper",
+      "provider": "thepaper",
+      "url": "https://api.thepaper.cn/contentapi/wwwIndex/rightSidebar",
+      "category": "china",
+      "kind": "json",
+      "items": "/data/hotNews",
+      "title": "/name",
+      "link": "",
+      "template": "https://www.thepaper.cn/newsDetail_forward_{/contId}",
+      "hot": true,
+      "mixed": true,
+      "channel": "/nodeInfo/name|/category_name|/categoryName|/category|/channel_name|/channelName|/channel|/column_name|/column",
+      "tags": "/tagList",
+      "detail": "article",
+      "date": "/pubTimeLong|/trackPublishTime|/publishTime"
+    },
+    {
+      "id": "sputniknewscn",
+      "provider": "sputniknewscn",
+      "url": "https://sputniknews.cn/services/widget/lenta/",
+      "category": "world",
+      "kind": "html",
+      "row": ".lenta__item",
+      "anchor": "a",
+      "title_selector": ".lenta__item-text",
+      "mixed": true,
+      "channel_selector": "[data-channel], .category, .channel, .column-name",
+      "detail": "article",
+      "date_selector": "[data-unixtime]"
+    },
+    {
+      "id": "cls",
+      "provider": "cls",
+      "url": "https://www.cls.cn/v1/roll/get_roll_list",
+      "category": "finance",
+      "kind": "json",
+      "items": "/data/roll_data",
+      "title": "/title|/brief",
+      "link": "",
+      "template": "https://www.cls.cn/detail/{/id}",
+      "body": "/brief",
+      "date": "/ctime",
+      "seconds": true,
+      "referer": "https://www.cls.cn/telegraph",
+      "mixed": true,
+      "channel": "/category_name|/categoryName|/category|/channel_name|/channelName|/channel|/column_name|/column",
+      "tags": "/subjects|/tags|/plate_list",
+      "detail": "none"
+    },
+    {
+      "id": "gelonghui",
+      "provider": "gelonghui",
+      "url": "https://www.gelonghui.com/news/",
+      "category": "finance",
+      "kind": "html",
+      "row": ".article-content",
+      "anchor": ".detail-right > a",
+      "title_selector": "h2",
+      "mixed": true,
+      "channel_selector": "[data-channel], .category, .channel, .column-name",
+      "detail": "article"
+    },
+    {
+      "id": "jin10",
+      "provider": "jin10",
+      "url": "https://www.jin10.com/flash_newest.js?t={now}",
+      "category": "finance",
+      "kind": "json",
+      "items": "",
+      "title": "/data/title|/data/content",
+      "link": "",
+      "template": "https://flash.jin10.com/detail/{/id}",
+      "body": "/data/content",
+      "date": "/time",
+      "extract": "var newest",
+      "mixed": true,
+      "channel": "/data/category|/data/channel_name|/category_name|/categoryName|/category|/channel_name|/channelName|/channel|/column_name|/column",
+      "tags": "/tags|/tag",
+      "detail": "none"
+    },
+    {
+      "id": "ifeng",
+      "provider": "ifeng",
+      "url": "https://www.ifeng.com/",
+      "category": "china",
+      "kind": "json",
+      "items": "/hotNews1",
+      "title": "/title",
+      "link": "/url",
+      "template": "",
+      "date": "/newsTime",
+      "extract": "allData",
+      "hot": true,
+      "mixed": true,
+      "channel": "/category_name|/categoryName|/category|/channel_name|/channelName|/channel|/column_name|/column",
+      "tags": "/tags|/tag",
+      "detail": "article"
+    },
+    {
+      "id": "tencent",
+      "provider": "tencent",
+      "category": "china",
+      "hot": true,
+      "url": "https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50",
+      "kind": "json",
+      "items": "/idlist/0/newslist",
+      "title": "/title",
+      "link": "/url|/surl",
+      "body": "/abstract",
+      "date": "/timestamp",
+      "seconds": true,
+      "referer": "https://news.qq.com/",
+      "mixed": true,
+      "channel": "/category_name|/categoryName|/category|/channel_name|/channelName|/channel|/column_name|/column",
+      "tags": "/tags|/tag",
+      "detail": "article"
+    }
+  ]
+}

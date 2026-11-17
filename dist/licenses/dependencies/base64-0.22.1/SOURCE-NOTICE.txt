@@ -1,0 +1,4 @@
+Package: base64 0.22.1
+Authors: Marshall Pierce <marshall@mpierce.org>
+Repository: https://github.com/marshallpierce/rust-base64
+Unmodified source: https://crates.io/api/v1/crates/base64/0.22.1/download

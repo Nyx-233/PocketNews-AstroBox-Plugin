@@ -1,0 +1,4 @@
+Package: leb128 0.2.7
+Authors: Nick Fitzgerald <fitzgen@gmail.com>, Philip Craig <philipjcraig@gmail.com>
+Repository: https://github.com/gimli-rs/leb128
+Unmodified source: https://crates.io/api/v1/crates/leb128/0.2.7/download

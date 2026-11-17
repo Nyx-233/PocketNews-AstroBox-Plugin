@@ -1,0 +1,4 @@
+Package: leb128fmt 0.1.0
+Authors: Bryant Luk <code@bryantluk.com>
+Repository: https://github.com/bluk/leb128fmt
+Unmodified source: https://crates.io/api/v1/crates/leb128fmt/0.1.0/download

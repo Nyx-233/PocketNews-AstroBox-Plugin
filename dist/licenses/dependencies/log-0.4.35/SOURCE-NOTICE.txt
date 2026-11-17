@@ -1,0 +1,4 @@
+Package: log 0.4.35
+Authors: The Rust Project Developers
+Repository: https://github.com/rust-lang/log
+Unmodified source: https://crates.io/api/v1/crates/log/0.4.35/download

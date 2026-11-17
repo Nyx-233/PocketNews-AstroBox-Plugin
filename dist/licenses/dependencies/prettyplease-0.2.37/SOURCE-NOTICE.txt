@@ -1,0 +1,4 @@
+Package: prettyplease 0.2.37
+Authors: David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/prettyplease
+Unmodified source: https://crates.io/api/v1/crates/prettyplease/0.2.37/download

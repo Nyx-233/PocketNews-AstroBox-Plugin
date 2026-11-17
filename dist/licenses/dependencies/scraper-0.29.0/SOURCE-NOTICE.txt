@@ -1,0 +1,4 @@
+Package: scraper 0.29.0
+Authors: June McEnroe <june@causal.agency>
+Repository: https://github.com/rust-scraper/scraper
+Unmodified source: https://crates.io/api/v1/crates/scraper/0.29.0/download

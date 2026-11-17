@@ -1,0 +1,4 @@
+Package: libc 0.2.191
+Authors: 
+Repository: https://github.com/rust-lang/libc
+Unmodified source: https://crates.io/api/v1/crates/libc/0.2.191/download

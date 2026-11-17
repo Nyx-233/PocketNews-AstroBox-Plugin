@@ -1,0 +1,4 @@
+Package: anyhow 1.0.104
+Authors: David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/anyhow
+Unmodified source: https://crates.io/api/v1/crates/anyhow/1.0.104/download

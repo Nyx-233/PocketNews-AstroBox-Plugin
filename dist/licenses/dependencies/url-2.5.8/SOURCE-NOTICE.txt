@@ -1,0 +1,4 @@
+Package: url 2.5.8
+Authors: The rust-url developers
+Repository: https://github.com/servo/rust-url
+Unmodified source: https://crates.io/api/v1/crates/url/2.5.8/download

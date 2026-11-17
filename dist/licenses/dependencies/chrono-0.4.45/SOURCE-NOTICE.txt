@@ -1,0 +1,4 @@
+Package: chrono 0.4.45
+Authors: 
+Repository: https://github.com/chronotope/chrono
+Unmodified source: https://crates.io/api/v1/crates/chrono/0.4.45/download

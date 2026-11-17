@@ -1,0 +1,4 @@
+Package: phf_macros 0.14.0
+Authors: Steven Fackler <sfackler@gmail.com>
+Repository: https://github.com/rust-phf/rust-phf
+Unmodified source: https://crates.io/api/v1/crates/phf_macros/0.14.0/download

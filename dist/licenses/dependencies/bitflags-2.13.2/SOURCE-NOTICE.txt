@@ -1,0 +1,4 @@
+Package: bitflags 2.13.2
+Authors: The Rust Project Developers
+Repository: https://github.com/bitflags/bitflags
+Unmodified source: https://crates.io/api/v1/crates/bitflags/2.13.2/download

@@ -1,0 +1,4 @@
+Package: digest 0.10.7
+Authors: RustCrypto Developers
+Repository: https://github.com/RustCrypto/traits
+Unmodified source: https://crates.io/api/v1/crates/digest/0.10.7/download

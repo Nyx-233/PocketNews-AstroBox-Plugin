@@ -1,0 +1,4 @@
+Package: waki 0.5.1
+Authors: Xinzhao Xu
+Repository: https://github.com/wacker-dev/waki
+Unmodified source: https://crates.io/api/v1/crates/waki/0.5.1/download

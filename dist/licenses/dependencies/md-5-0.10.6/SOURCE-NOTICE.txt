@@ -1,0 +1,4 @@
+Package: md-5 0.10.6
+Authors: RustCrypto Developers
+Repository: https://github.com/RustCrypto/hashes
+Unmodified source: https://crates.io/api/v1/crates/md-5/0.10.6/download

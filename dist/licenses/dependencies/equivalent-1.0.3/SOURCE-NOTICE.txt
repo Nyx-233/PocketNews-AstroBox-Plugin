@@ -1,0 +1,4 @@
+Package: equivalent 1.0.3
+Authors: 
+Repository: https://github.com/indexmap-rs/equivalent
+Unmodified source: https://crates.io/api/v1/crates/equivalent/1.0.3/download

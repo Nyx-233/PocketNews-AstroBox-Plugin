@@ -1,0 +1,4 @@
+Package: selectors 0.41.0
+Authors: The Servo Project Developers
+Repository: https://github.com/servo/stylo
+Unmodified source: https://crates.io/api/v1/crates/selectors/0.41.0/download

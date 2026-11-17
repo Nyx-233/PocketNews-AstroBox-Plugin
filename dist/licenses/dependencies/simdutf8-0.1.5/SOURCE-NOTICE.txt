@@ -1,0 +1,4 @@
+Package: simdutf8 0.1.5
+Authors: Hans Kratz <hans@appfour.com>
+Repository: https://github.com/rusticstuff/simdutf8
+Unmodified source: https://crates.io/api/v1/crates/simdutf8/0.1.5/download

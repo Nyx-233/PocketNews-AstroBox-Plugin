@@ -1,0 +1,4 @@
+Package: precomputed-hash 0.1.1
+Authors: Emilio Cobos Álvarez <emilio@crisal.io>
+Repository: https://github.com/emilio/precomputed-hash
+Unmodified source: https://crates.io/api/v1/crates/precomputed-hash/0.1.1/download

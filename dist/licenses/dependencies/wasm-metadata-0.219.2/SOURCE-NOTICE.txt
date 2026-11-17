@@ -1,0 +1,4 @@
+Package: wasm-metadata 0.219.2
+Authors: 
+Repository: https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasm-metadata
+Unmodified source: https://crates.io/api/v1/crates/wasm-metadata/0.219.2/download

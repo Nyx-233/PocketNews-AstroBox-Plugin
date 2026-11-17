@@ -1,0 +1,4 @@
+Package: wasmparser 0.219.2
+Authors: Yury Delendik <ydelendik@mozilla.com>
+Repository: https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasmparser
+Unmodified source: https://crates.io/api/v1/crates/wasmparser/0.219.2/download

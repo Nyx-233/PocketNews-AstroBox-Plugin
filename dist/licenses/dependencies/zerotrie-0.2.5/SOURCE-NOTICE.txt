@@ -1,0 +1,4 @@
+Package: zerotrie 0.2.5
+Authors: The ICU4X Project Developers
+Repository: https://github.com/unicode-org/icu4x
+Unmodified source: https://crates.io/api/v1/crates/zerotrie/0.2.5/download

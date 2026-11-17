@@ -1,0 +1,4 @@
+Package: displaydoc 0.2.7
+Authors: Jane Lusby <jlusby@yaah.dev>
+Repository: https://github.com/yaahc/displaydoc
+Unmodified source: https://crates.io/api/v1/crates/displaydoc/0.2.7/download

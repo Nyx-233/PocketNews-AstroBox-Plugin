@@ -1,0 +1,4 @@
+Package: derive_more 2.1.1
+Authors: Jelte Fennema <github-tech@jeltef.nl>
+Repository: https://github.com/JelteF/derive_more
+Unmodified source: https://crates.io/api/v1/crates/derive_more/2.1.1/download

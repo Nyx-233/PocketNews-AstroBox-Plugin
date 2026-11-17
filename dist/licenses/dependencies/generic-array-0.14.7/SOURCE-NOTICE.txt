@@ -1,0 +1,4 @@
+Package: generic-array 0.14.7
+Authors: Bartłomiej Kamiński <fizyk20@gmail.com>, Aaron Trent <novacrazy@gmail.com>
+Repository: https://github.com/fizyk20/generic-array.git
+Unmodified source: https://crates.io/api/v1/crates/generic-array/0.14.7/download

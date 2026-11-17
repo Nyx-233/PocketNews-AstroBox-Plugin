@@ -1,0 +1,4 @@
+Package: memchr 2.8.3
+Authors: Andrew Gallant <jamslam@gmail.com>, bluss
+Repository: https://github.com/BurntSushi/memchr
+Unmodified source: https://crates.io/api/v1/crates/memchr/2.8.3/download

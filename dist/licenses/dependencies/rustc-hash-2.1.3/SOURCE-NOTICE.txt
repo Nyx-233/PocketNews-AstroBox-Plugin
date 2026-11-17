@@ -1,0 +1,4 @@
+Package: rustc-hash 2.1.3
+Authors: The Rust Project Developers
+Repository: https://github.com/rust-lang/rustc-hash
+Unmodified source: https://crates.io/api/v1/crates/rustc-hash/2.1.3/download

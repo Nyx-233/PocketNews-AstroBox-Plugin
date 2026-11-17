@@ -1,0 +1,4 @@
+Package: hashbrown 0.14.5
+Authors: Amanieu d'Antras <amanieu@gmail.com>
+Repository: https://github.com/rust-lang/hashbrown
+Unmodified source: https://crates.io/api/v1/crates/hashbrown/0.14.5/download

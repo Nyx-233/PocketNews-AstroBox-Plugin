@@ -1,0 +1,4 @@
+Package: core_detect 1.0.0
+Authors: Thom Chiovoloni <chiovolonit@gmail.com>
+Repository: https://github.com/thomcc/core_detect
+Unmodified source: https://crates.io/api/v1/crates/core_detect/1.0.0/download

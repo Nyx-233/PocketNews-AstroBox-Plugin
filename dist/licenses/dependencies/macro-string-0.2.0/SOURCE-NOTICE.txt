@@ -1,0 +1,4 @@
+Package: macro-string 0.2.0
+Authors: David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/macro-string
+Unmodified source: https://crates.io/api/v1/crates/macro-string/0.2.0/download

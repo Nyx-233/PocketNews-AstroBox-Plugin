@@ -1,0 +1,4 @@
+Package: spdx 0.10.9
+Authors: Embark <opensource@embark-studios.com>, Jake Shadle <jake.shadle@embark-studios.com>
+Repository: https://github.com/EmbarkStudios/spdx
+Unmodified source: https://crates.io/api/v1/crates/spdx/0.10.9/download

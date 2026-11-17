@@ -1,0 +1,4 @@
+Package: itoa 1.0.18
+Authors: David Tolnay <dtolnay@gmail.com>
+Repository: https://github.com/dtolnay/itoa
+Unmodified source: https://crates.io/api/v1/crates/itoa/1.0.18/download

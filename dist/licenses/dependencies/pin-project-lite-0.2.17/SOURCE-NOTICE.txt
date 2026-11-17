@@ -1,0 +1,4 @@
+Package: pin-project-lite 0.2.17
+Authors: 
+Repository: https://github.com/taiki-e/pin-project-lite
+Unmodified source: https://crates.io/api/v1/crates/pin-project-lite/0.2.17/download

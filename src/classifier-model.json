@@ -1,0 +1,63 @@
+{
+  "format": "PNC2",
+  "algorithm": "Field-aware TF-IDF + balanced linear SVM; scope first, topic second",
+  "policy_sha256": "c4b690cf9d5ff777fde0fa08e13266fa9824a9ba45bfeff05b565331880d6309",
+  "training_rows": 118503,
+  "public_unique_titles": 98264,
+  "authored_contrasts": 586,
+  "views": {
+    "t": 1.0,
+    "l": 0.45,
+    "b": 0.15
+  },
+  "scope_margin": 0.45,
+  "topic_margin": 0.45,
+  "sources": [
+    {
+      "name": "TNEWS",
+      "sha256": "e2c6c008569d23b50778a45abe4c2d9cef140177982203ed7dbad9ddcd748b25"
+    },
+    {
+      "name": "THUCNews",
+      "sha256": "49133a825916ccc2d30a2f798eaf16798a17f0359c0c33000137747df0262eba"
+    }
+  ],
+  "protected_reported_rows": 5,
+  "topic": {
+    "classes": [
+      "china",
+      "culture",
+      "education",
+      "entertainment",
+      "finance",
+      "health",
+      "life",
+      "military",
+      "society",
+      "sports",
+      "tech"
+    ],
+    "features": 109000,
+    "bytes": 3706159,
+    "sha256": "780c0c1b01f28b9ba85eef905706c6ea56b3916886344c965b5eaf03fba1c0d7",
+    "training_rows": 113464
+  },
+  "scope": {
+    "classes": [
+      "domestic",
+      "foreign",
+      "unspecified"
+    ],
+    "features": 77000,
+    "bytes": 1386069,
+    "sha256": "23dbae57b2f35561f6da4e19e9547cf97a8c2e3322623c9b3119872e77e48d2d",
+    "training_rows": 118335
+  },
+  "training_code_sha256": {
+    "train_classifier.py": "05d33702ccb886e61ef540b74ba0814889fe7b0a087ca81a647812409574fd66",
+    "classifier_features.py": "9cc799bfc453390fb6d9701907563c1295da1dc3d81877d72a4af85d4ecff4d2",
+    "classifier_examples.py": "970614df42f8c130b4d28d45721b8bb868ea1698a1070795b5b7e6b842f2f8cc"
+  },
+  "decoder": "Scope anchors, followed by main-event constraints, followed by two-stage learned scores; metadata only for low-evidence fallback",
+  "confidence": "Uncalibrated score margin; non-foreign scope compares the best domestic/unspecified score against foreign, since both non-foreign classes use the same topic decision"
+}

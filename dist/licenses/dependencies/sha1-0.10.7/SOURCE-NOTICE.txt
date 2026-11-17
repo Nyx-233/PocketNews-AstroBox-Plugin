@@ -1,0 +1,4 @@
+Package: sha1 0.10.7
+Authors: RustCrypto Developers
+Repository: https://github.com/RustCrypto/hashes
+Unmodified source: https://crates.io/api/v1/crates/sha1/0.10.7/download

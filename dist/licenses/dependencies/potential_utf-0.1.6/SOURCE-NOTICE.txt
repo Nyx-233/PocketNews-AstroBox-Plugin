@@ -1,0 +1,4 @@
+Package: potential_utf 0.1.6
+Authors: The ICU4X Project Developers
+Repository: https://github.com/unicode-org/icu4x
+Unmodified source: https://crates.io/api/v1/crates/potential_utf/0.1.6/download

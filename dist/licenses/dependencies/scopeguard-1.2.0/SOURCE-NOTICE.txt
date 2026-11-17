@@ -1,0 +1,4 @@
+Package: scopeguard 1.2.0
+Authors: bluss
+Repository: https://github.com/bluss/scopeguard
+Unmodified source: https://crates.io/api/v1/crates/scopeguard/1.2.0/download

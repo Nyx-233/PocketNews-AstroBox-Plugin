@@ -1,0 +1,4 @@
+Package: wit-bindgen-core 0.57.1
+Authors: Alex Crichton <alex@alexcrichton.com>
+Repository: https://github.com/bytecodealliance/wit-bindgen
+Unmodified source: https://crates.io/api/v1/crates/wit-bindgen-core/0.57.1/download

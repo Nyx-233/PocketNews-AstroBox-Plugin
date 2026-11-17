@@ -1,0 +1,4 @@
+Package: zerofrom-derive 0.1.8
+Authors: Manish Goregaokar <manishsmail@gmail.com>
+Repository: https://github.com/unicode-org/icu4x
+Unmodified source: https://crates.io/api/v1/crates/zerofrom-derive/0.1.8/download

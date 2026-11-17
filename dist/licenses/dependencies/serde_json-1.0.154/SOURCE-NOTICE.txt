@@ -1,0 +1,4 @@
+Package: serde_json 1.0.154
+Authors: 
+Repository: https://github.com/serde-rs/json
+Unmodified source: https://crates.io/api/v1/crates/serde_json/1.0.154/download

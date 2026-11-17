@@ -1,0 +1,4 @@
+Package: stable_deref_trait 1.2.1
+Authors: Robert Grosse <n210241048576@gmail.com>
+Repository: https://github.com/storyyeller/stable_deref_trait
+Unmodified source: https://crates.io/api/v1/crates/stable_deref_trait/1.2.1/download

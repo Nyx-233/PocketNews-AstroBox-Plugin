@@ -1,0 +1,4 @@
+Package: percent-encoding 2.3.2
+Authors: The rust-url developers
+Repository: https://github.com/servo/rust-url/
+Unmodified source: https://crates.io/api/v1/crates/percent-encoding/2.3.2/download

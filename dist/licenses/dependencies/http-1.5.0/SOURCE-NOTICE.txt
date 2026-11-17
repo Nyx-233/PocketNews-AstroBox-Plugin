@@ -1,0 +1,4 @@
+Package: http 1.5.0
+Authors: Alex Crichton <alex@alexcrichton.com>, Carl Lerche <me@carllerche.com>, Sean McArthur <sean@seanmonstar.com>
+Repository: https://github.com/hyperium/http
+Unmodified source: https://crates.io/api/v1/crates/http/1.5.0/download

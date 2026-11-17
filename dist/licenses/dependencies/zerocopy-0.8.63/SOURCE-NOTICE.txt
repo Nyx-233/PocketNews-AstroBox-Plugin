@@ -1,0 +1,4 @@
+Package: zerocopy 0.8.63
+Authors: 
+Repository: https://github.com/google/zerocopy
+Unmodified source: https://crates.io/api/v1/crates/zerocopy/0.8.63/download

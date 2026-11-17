@@ -1,0 +1,4 @@
+Package: encoding_rs 0.8.44
+Authors: Henri Sivonen <hsivonen@hsivonen.fi>
+Repository: https://github.com/hsivonen/encoding_rs
+Unmodified source: https://crates.io/api/v1/crates/encoding_rs/0.8.44/download

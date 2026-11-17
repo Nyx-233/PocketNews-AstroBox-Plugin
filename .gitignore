@@ -1,0 +1,9 @@
+/target/
+/.tools/
+/.claude/
+/.vscode/
+/dist/*.abp
+/dist/*-source.zip
+__pycache__/
+*.pyc
+*.log

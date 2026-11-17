@@ -1,0 +1,4 @@
+Package: synstructure 0.14.0
+Authors: Nika Layzell <nika@thelayzells.com>
+Repository: https://github.com/mystor/synstructure
+Unmodified source: https://crates.io/api/v1/crates/synstructure/0.14.0/download

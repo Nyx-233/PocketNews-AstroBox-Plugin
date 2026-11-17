@@ -1,0 +1,1397 @@
+[
+  {
+    "id": "real-3",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530732",
+    "expected": "world",
+    "group": "real-3",
+    "split": "test",
+    "input_sha256": "eb84574382a05fadf4037f04163265a28c2e743d59d321d44bc30bdd07678d0b"
+  },
+  {
+    "id": "real-6",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530728",
+    "expected": "finance",
+    "group": "real-6",
+    "split": "dev",
+    "input_sha256": "476553101c6364df1e1bbc6e9784ab62854e7bb52ebea1f5cebcb0656f574c39"
+  },
+  {
+    "id": "real-8",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530725",
+    "expected": "world",
+    "group": "real-8",
+    "split": "test",
+    "input_sha256": "865bd7f727911d7bf1414838bef2e99b7a64e5c9f9dd8a7f1d66d4cfd66777b5"
+  },
+  {
+    "id": "real-9",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530724",
+    "expected": "world",
+    "group": "real-9",
+    "split": "test",
+    "input_sha256": "47dc7cbad53091f4d7aa5d85e66091769d788e498b8cfc64a56f9ab4d26c8843"
+  },
+  {
+    "id": "real-11",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530722",
+    "expected": "world",
+    "group": "real-11",
+    "split": "dev",
+    "input_sha256": "e153e59a0bff24d0d9aded68c8271a683aa25ed5d15ec4f82706d1dc305b55dc"
+  },
+  {
+    "id": "real-12",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530721",
+    "expected": "world",
+    "group": "real-12",
+    "split": "dev",
+    "input_sha256": "2611f7f94de24b6bdaacf25c2a4b6d5910764f82db4a3de288e00cf424285845"
+  },
+  {
+    "id": "real-13",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530720",
+    "expected": "world",
+    "group": "real-13",
+    "split": "dev",
+    "input_sha256": "343082ebc61684737a52d3d0cdc2ae8b6f74712993a7d48de61536c7c9a31e32"
+  },
+  {
+    "id": "real-14",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530719",
+    "expected": "world",
+    "group": "consulting-ai",
+    "split": "test",
+    "input_sha256": "ec0de56fe318324cbb03500a4cdc2e157877e697fe6629379b368a53bda4254e"
+  },
+  {
+    "id": "real-15",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530718",
+    "expected": "finance",
+    "group": "real-15",
+    "split": "test",
+    "input_sha256": "2ac20503a328439db930b787288cc908ec69d3deeb5c264c1f49270b0b645293"
+  },
+  {
+    "id": "real-17",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530716",
+    "expected": "finance",
+    "group": "real-17",
+    "split": "dev",
+    "input_sha256": "67c60aebb3d0fef76dc6294852c7f0e466c55859fa4cd0d937f860b14ace5113"
+  },
+  {
+    "id": "real-19",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530712",
+    "expected": "world",
+    "group": "real-19",
+    "split": "test",
+    "input_sha256": "3752ab554d87fee23b40b74a5e1b4102c83772830a75d1df2720d9089dea796c"
+  },
+  {
+    "id": "real-21",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530708",
+    "expected": "world",
+    "group": "real-21",
+    "split": "test",
+    "input_sha256": "b02744c68990df63338d29b53d0c6ddb7724adb4e9a42b6965a99b5d852202ab"
+  },
+  {
+    "id": "real-22",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530707",
+    "expected": "world",
+    "group": "real-22",
+    "split": "test",
+    "input_sha256": "58030f6d89472700875ed7a3b238c98bce7035b07803a2fd7c71590c7c4afb3f"
+  },
+  {
+    "id": "real-24",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530703",
+    "expected": "world",
+    "group": "real-24",
+    "split": "test",
+    "input_sha256": "1919066d22fe08cfa34a1a6577ce1084fd6482a054fa15f01a84eeaf1c926d5c"
+  },
+  {
+    "id": "real-28",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530695",
+    "expected": "world",
+    "group": "real-28",
+    "split": "dev",
+    "input_sha256": "eb0662df60190bc91dc64d2139353f6ebe9129ddb23e256cc143fa81f837d649"
+  },
+  {
+    "id": "real-29",
+    "source": "cls",
+    "url": "https://www.cls.cn/detail/2530694",
+    "expected": "world",
+    "group": "real-29",
+    "split": "dev",
+    "input_sha256": "421c9a8a447724279c502385b4deb353b5813ea3fd139293b2e895852e78b8dd"
+  },
+  {
+    "id": "real-31",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197763",
+    "expected": "world",
+    "group": "real-31",
+    "split": "test",
+    "input_sha256": "249bc30fb4a38ef4b133904f2672374976a2ebd2d17c2f3b08b3cb2c4efc30fb"
+  },
+  {
+    "id": "real-32",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197762",
+    "expected": "finance",
+    "group": "real-32",
+    "split": "test",
+    "input_sha256": "d9a4cf6a55a6ff2ad7c582a5fbe045422caee5c204c8d24571d765a18d929297"
+  },
+  {
+    "id": "real-40",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197752",
+    "expected": "china",
+    "group": "real-40",
+    "split": "test",
+    "input_sha256": "0401dea3df253772123f16843f0a788f85b0326c66c451d49cb6acdbef70dbd2"
+  },
+  {
+    "id": "real-41",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197751",
+    "expected": "society",
+    "group": "real-41",
+    "split": "test",
+    "input_sha256": "eb3fe88856fed04c611ee82f2d6e10d914473576c9f1b2d76b4764faef55d171"
+  },
+  {
+    "id": "real-42",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197750",
+    "expected": "world",
+    "group": "real-42",
+    "split": "test",
+    "input_sha256": "a689aee7abc3c2499e5b086295e2c0058ca8529b664f37dacb672597da31c18e"
+  },
+  {
+    "id": "real-43",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197748",
+    "expected": "world",
+    "group": "real-43",
+    "split": "test",
+    "input_sha256": "c78858db232627bf1e129b763e2cd60d0b44ca62d84cb6fb5564729e305a45ae"
+  },
+  {
+    "id": "real-44",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197747",
+    "expected": "finance",
+    "group": "real-44",
+    "split": "test",
+    "input_sha256": "057d6b5bde171344ac97b14283c0d70b90ff47f9c62ffec1a6301b770481763a"
+  },
+  {
+    "id": "real-45",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197746",
+    "expected": "world",
+    "group": "real-45",
+    "split": "test",
+    "input_sha256": "fc1e24c4948e025d28b49fa5996c2acb3a3cb199962c8e95831465c08ce5ae6a"
+  },
+  {
+    "id": "real-47",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197742",
+    "expected": "world",
+    "group": "real-47",
+    "split": "test",
+    "input_sha256": "b53893cf73e635b7387c3ef50b4de4da8111ffe1678efea2dbc530e374b02cd9"
+  },
+  {
+    "id": "real-48",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197741",
+    "expected": "world",
+    "group": "real-48",
+    "split": "test",
+    "input_sha256": "147d1e02fca2d682329192dcd7641fc628834202fcaffd344abc6ccf796b4115"
+  },
+  {
+    "id": "real-60",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197727",
+    "expected": "world",
+    "group": "real-60",
+    "split": "test",
+    "input_sha256": "1d0ed09134e5e9e31ec1b510c81731c6f4f2434514c2e20e0b85de3bdc5d5603"
+  },
+  {
+    "id": "real-61",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197726",
+    "expected": "world",
+    "group": "real-61",
+    "split": "test",
+    "input_sha256": "aca6e684f7af221c37e50f72dbfb5e23b87090f64449900aca24cb1c46207967"
+  },
+  {
+    "id": "real-62",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197725",
+    "expected": "tech",
+    "group": "real-62",
+    "split": "dev",
+    "input_sha256": "0a9db37174d42016cb417fd4334808cf162ea81885d8a677e67b50de972c8e9e"
+  },
+  {
+    "id": "real-63",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197724",
+    "expected": "world",
+    "group": "real-63",
+    "split": "dev",
+    "input_sha256": "3ad9f1d546b325274238f1d33aaaf3b8bb3c8396a03796f6d31a38c5938e76e1"
+  },
+  {
+    "id": "real-64",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197723",
+    "expected": "world",
+    "group": "real-64",
+    "split": "dev",
+    "input_sha256": "ab4f781d97366e2289c78016586b5e5964e52d6e20fbfc7477fb4e25aad1ff9a"
+  },
+  {
+    "id": "real-66",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197721",
+    "expected": "world",
+    "group": "real-66",
+    "split": "test",
+    "input_sha256": "6d3485016533597b96b492baeb9c26797496bca6e63de612d2d24b647b676d86"
+  },
+  {
+    "id": "real-68",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197719",
+    "expected": "world",
+    "group": "real-68",
+    "split": "dev",
+    "input_sha256": "545306dc5d79aa757fb7bd478a0350fcf8ee4d36f6b5d71753ad19686d025178"
+  },
+  {
+    "id": "real-70",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197717",
+    "expected": "finance",
+    "group": "real-70",
+    "split": "test",
+    "input_sha256": "c83625b99d8f4105e81c893b8669aeb39bc586fd33da2a330850070d7a06d7f5"
+  },
+  {
+    "id": "real-71",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197715",
+    "expected": "finance",
+    "group": "real-71",
+    "split": "test",
+    "input_sha256": "9914326e797fc6c313c8625092ceb19285233beac2b34a2113debebee555fc47"
+  },
+  {
+    "id": "real-76",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197707",
+    "expected": "world",
+    "group": "diplomacy-france",
+    "split": "dev",
+    "input_sha256": "b082b2b120693e87fd3f433b0176c5993ec109db1ca26da1e1b359b6ad770bae"
+  },
+  {
+    "id": "real-77",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197704",
+    "expected": "world",
+    "group": "real-77",
+    "split": "test",
+    "input_sha256": "455bea9ec38f6ffc735d479141b447f653380decd03835a0b411a7282c570ebd"
+  },
+  {
+    "id": "real-78",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197703",
+    "expected": "tech",
+    "group": "real-78",
+    "split": "test",
+    "input_sha256": "65f6b97cb5bb8cdc1312eb3397e4db20f8f930787325fc16680871c81de52b22"
+  },
+  {
+    "id": "real-80",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197698",
+    "expected": "world",
+    "group": "real-80",
+    "split": "test",
+    "input_sha256": "a9283d39b00c7533ea3dd5338ef8bb41d7934702a5e39564e1b46ee02e1b0b13"
+  },
+  {
+    "id": "real-81",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197696",
+    "expected": "society",
+    "group": "real-81",
+    "split": "dev",
+    "input_sha256": "f6874c6bec04a781773d22f4e61b90cbb6a3fb170e54545550c47d9789dd0ab6"
+  },
+  {
+    "id": "real-82",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197695",
+    "expected": "world",
+    "group": "real-82",
+    "split": "test",
+    "input_sha256": "408bf3a695820206c9e5e327ff2947b8fcbe7c0353f595451af80898e39ee8ca"
+  },
+  {
+    "id": "real-83",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197694",
+    "expected": "china",
+    "group": "real-83",
+    "split": "test",
+    "input_sha256": "4bf293780344e9e90171cf9bafd07e33854255e66386193a96446d1aff785ed2"
+  },
+  {
+    "id": "real-84",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197693",
+    "expected": "tech",
+    "group": "real-84",
+    "split": "test",
+    "input_sha256": "72766c7186ef51e892f4f3dfee302f2c92a544cf9c554ab378c15df907ee7c54"
+  },
+  {
+    "id": "real-86",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197688",
+    "expected": "finance",
+    "group": "real-86",
+    "split": "test",
+    "input_sha256": "4408d1dd4d371f31aa54d95e6dfca15f5a404731182431904f398444e652be01"
+  },
+  {
+    "id": "real-87",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197686",
+    "expected": "finance",
+    "group": "real-87",
+    "split": "test",
+    "input_sha256": "33d2541384b045bdbb8b982ca019cc0cdbfb4d367aa764df2d471a95c84044b9"
+  },
+  {
+    "id": "real-88",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197685",
+    "expected": "world",
+    "group": "real-88",
+    "split": "dev",
+    "input_sha256": "bed0265d3f233bbfbc917b49bdabdd08f35ff1002fe57129503ebc395f9231dc"
+  },
+  {
+    "id": "real-89",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197684",
+    "expected": "finance",
+    "group": "real-89",
+    "split": "test",
+    "input_sha256": "c61ceb6f81c3c7570cbdc6983af0cbd9a75dc6885f6f8bec17be608160839e47"
+  },
+  {
+    "id": "real-92",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197680",
+    "expected": "health",
+    "group": "real-92",
+    "split": "dev",
+    "input_sha256": "6230eab8361f4048c94f37dbb7f8f1ef6b3fd9fb884e7578ac883ca639e35b1b"
+  },
+  {
+    "id": "real-93",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197678",
+    "expected": "finance",
+    "group": "real-93",
+    "split": "test",
+    "input_sha256": "bb84f02cae0193fc665ad21218cc665af89dd8023626bfdbf68a916b82dfc7a6"
+  },
+  {
+    "id": "real-94",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197677",
+    "expected": "world",
+    "group": "anthropic-risk",
+    "split": "test",
+    "input_sha256": "9d266adbbcc85bbcf3fbf4b8218853c418f711e428fc5dd5de4ede6405b3ce3e"
+  },
+  {
+    "id": "real-95",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197675",
+    "expected": "finance",
+    "group": "real-95",
+    "split": "test",
+    "input_sha256": "cd273cfe1c3daf4e3bf60ffeb0512d43e2403934b9278030c285c287a6c8055b"
+  },
+  {
+    "id": "real-98",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197672",
+    "expected": "china",
+    "group": "real-98",
+    "split": "dev",
+    "input_sha256": "14066a9221beee7ca4d27b647e063c178681bb50c9ee8a9a17f883f106954039"
+  },
+  {
+    "id": "real-100",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197667",
+    "expected": "finance",
+    "group": "real-100",
+    "split": "test",
+    "input_sha256": "5f09f580ed912b7b15c94e271127eb38b20509c14c58312756703209560ea82b"
+  },
+  {
+    "id": "real-103",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197664",
+    "expected": "society",
+    "group": "real-103",
+    "split": "test",
+    "input_sha256": "16fc1a0a4ef752c8153e6a75765e929a8325310b53d9ac7dab9d32107146bc9b"
+  },
+  {
+    "id": "real-104",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197663",
+    "expected": "finance",
+    "group": "real-104",
+    "split": "test",
+    "input_sha256": "3442df66b6265eddb854ff57689462098a0313b52c60c66bd34fafcef6560b4f"
+  },
+  {
+    "id": "real-105",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197659",
+    "expected": "world",
+    "group": "diplomacy-slovakia",
+    "split": "dev",
+    "input_sha256": "9eefb84de4dc5338387d7de2eed1c5edfc14f1ddd7117cbf18ab1a90a55ec77e"
+  },
+  {
+    "id": "real-107",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197656",
+    "expected": "finance",
+    "group": "real-107",
+    "split": "dev",
+    "input_sha256": "aee3dd09c6b8b05b2b251d26eef22e1e4af17950c51e03ec68d80657bb6ad035"
+  },
+  {
+    "id": "real-109",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197652",
+    "expected": "finance",
+    "group": "real-109",
+    "split": "dev",
+    "input_sha256": "48ae067bf98a9486f69bcfa7e32c0c25dce5bff5a378016c06402bd70d49eacc"
+  },
+  {
+    "id": "real-110",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197650",
+    "expected": "world",
+    "group": "real-110",
+    "split": "test",
+    "input_sha256": "400f2d89f75a9b329dc2d2387c146610b2f1e7b5ff9b9af25b74566c53492452"
+  },
+  {
+    "id": "real-113",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197644",
+    "expected": "finance",
+    "group": "real-113",
+    "split": "dev",
+    "input_sha256": "979ca55c2e5a642a88e6cadf94024308f6ee2ce6da85f420271b3548dd133c16"
+  },
+  {
+    "id": "real-114",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197640",
+    "expected": "tech",
+    "group": "real-114",
+    "split": "test",
+    "input_sha256": "edd5481a9570f12ca58bbc65783306ec5c55a3f997972103e23d3ae420eb46f8"
+  },
+  {
+    "id": "real-115",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197638",
+    "expected": "tech",
+    "group": "real-115",
+    "split": "test",
+    "input_sha256": "f8e3ae95b5cf61dfb555102ad74b56401146ded3d3bf18afd052df9a0aa29dca"
+  },
+  {
+    "id": "real-117",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197635",
+    "expected": "finance",
+    "group": "real-117",
+    "split": "dev",
+    "input_sha256": "8fb3404bf9df7ea6e6c2a35239ff0d29d4d87c7ab2316627e5a79a95564580e4"
+  },
+  {
+    "id": "real-123",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197625",
+    "expected": "world",
+    "group": "real-123",
+    "split": "dev",
+    "input_sha256": "8b55458e419d5a78df655db72850786bbc1f8e5b9a4e785a43903a3cfe05c8b4"
+  },
+  {
+    "id": "real-125",
+    "source": "wallstreetcn",
+    "url": "https://wallstreetcn.com/livenews/3197622",
+    "expected": "world",
+    "group": "real-125",
+    "split": "test",
+    "input_sha256": "4940ebceca5480b0bba70d04150d178e5a5ab046d16ecde2b9cf911a1bb0e336"
+  },
+  {
+    "id": "real-128",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/415.htm",
+    "expected": "world",
+    "group": "bmw-design",
+    "split": "test",
+    "input_sha256": "80fd9cd52ef8f21b49c80b390f9fdcc9e73a7812d2afa30e425483e14add3bfa"
+  },
+  {
+    "id": "real-131",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/412.htm",
+    "expected": "finance",
+    "group": "real-131",
+    "split": "test",
+    "input_sha256": "c7d0f4485909f9374b7e98979a4821a25f6afa62439a67fe2d84a92cd6f4dcce"
+  },
+  {
+    "id": "real-133",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/410.htm",
+    "expected": "world",
+    "group": "real-133",
+    "split": "dev",
+    "input_sha256": "d4a7ecdc66400ca6a222151b4787c5c7b2c77213ad7146e27102ca4aa244d5cd"
+  },
+  {
+    "id": "real-134",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/408.htm",
+    "expected": "tech",
+    "group": "real-134",
+    "split": "test",
+    "input_sha256": "599f51a4cc3c4018ba9860dcd311e64c76679d687359bd687fc2c298b74695a6"
+  },
+  {
+    "id": "real-135",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/407.htm",
+    "expected": "world",
+    "group": "real-135",
+    "split": "test",
+    "input_sha256": "f474ccbe3d3524cbf59fc7ca3daf6578c018c893b32211add0fadd4b5b6ebfec"
+  },
+  {
+    "id": "real-137",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/405.htm",
+    "expected": "world",
+    "group": "real-137",
+    "split": "test",
+    "input_sha256": "52c2a865106fb852d54c85154ac6259ba62732b8c752e6ef3959989aa1be0c12"
+  },
+  {
+    "id": "real-138",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/404.htm",
+    "expected": "tech",
+    "group": "real-138",
+    "split": "dev",
+    "input_sha256": "dccedf5a0336f5c93222fc9328af2bb60f6d259e08428e1143fc9852ef6c5b53"
+  },
+  {
+    "id": "real-139",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/403.htm",
+    "expected": "society",
+    "group": "real-139",
+    "split": "test",
+    "input_sha256": "0041adea878577618f6deac413c2f2fbf50e97b6c4275a247978b17ce70fb4d3"
+  },
+  {
+    "id": "real-140",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/402.htm",
+    "expected": "tech",
+    "group": "real-140",
+    "split": "test",
+    "input_sha256": "710566c37b02a1e34f7f5b7d2842d7a28ca98048086f611e38bdbefb5f63257f"
+  },
+  {
+    "id": "real-141",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/400.htm",
+    "expected": "education",
+    "group": "real-141",
+    "split": "dev",
+    "input_sha256": "5203ccb7482c69047426b5e62b189b3bac1eeb6ab3629f6fefd95cb9466eba30"
+  },
+  {
+    "id": "real-142",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/399.htm",
+    "expected": "finance",
+    "group": "real-142",
+    "split": "test",
+    "input_sha256": "bc307a8737eeaed11ed30d8772ea14e4e823a8e11676f4237cc3f8fd351ce6f7"
+  },
+  {
+    "id": "real-143",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/398.htm",
+    "expected": "world",
+    "group": "bmw-production",
+    "split": "dev",
+    "input_sha256": "080e62d23a6e5d77a6370c8dbbe8a035e36fd13ac5c2787d531951d97e0b8d07"
+  },
+  {
+    "id": "real-144",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/397.htm",
+    "expected": "world",
+    "group": "real-144",
+    "split": "dev",
+    "input_sha256": "05fe9dafba1ed8640907f4bf23b4bd86f61f51b390dabbda7fb7ac5101203869"
+  },
+  {
+    "id": "real-145",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/396.htm",
+    "expected": "tech",
+    "group": "real-145",
+    "split": "test",
+    "input_sha256": "e3cdaf0c240a4330f8fc5a3ccb46ffcc5db88b6a56a670da79adba363c375471"
+  },
+  {
+    "id": "real-146",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/395.htm",
+    "expected": "society",
+    "group": "real-146",
+    "split": "test",
+    "input_sha256": "6f6d4579a9a2c973821486ea2d2e1f39bd1eb063e18db8b5900476dc7278047d"
+  },
+  {
+    "id": "real-147",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/393.htm",
+    "expected": "finance",
+    "group": "real-147",
+    "split": "dev",
+    "input_sha256": "c985e13be6dffa4a2684f7d35a1273675af34482b2068d505bb1c91664a4f867"
+  },
+  {
+    "id": "real-148",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/392.htm",
+    "expected": "world",
+    "group": "real-148",
+    "split": "dev",
+    "input_sha256": "5d3d498a194c17619fec8231a466223bc112378b6320e64890a14f3bc57b0c3e"
+  },
+  {
+    "id": "real-149",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/374.htm",
+    "expected": "tech",
+    "group": "real-149",
+    "split": "dev",
+    "input_sha256": "4095900e339cedbd63c08c4ab47dec84d7c8c4ca1f8552842bb5de475451c810"
+  },
+  {
+    "id": "real-150",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/372.htm",
+    "expected": "finance",
+    "group": "real-150",
+    "split": "test",
+    "input_sha256": "2e5d23987f89634734722c8bd402c52acaf1559a3a8e3274c04c86c89028811c"
+  },
+  {
+    "id": "real-151",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/360.htm",
+    "expected": "world",
+    "group": "real-151",
+    "split": "test",
+    "input_sha256": "bfcf903747515f7f7f333e06848a4778ba9b2c50cd35dbe370f79c77f98fe06c"
+  },
+  {
+    "id": "real-152",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/358.htm",
+    "expected": "world",
+    "group": "real-152",
+    "split": "test",
+    "input_sha256": "1c3d6addfe0a9fa651ea69961ea530e715769a11603d3a49f11c09e8c89f3c2d"
+  },
+  {
+    "id": "real-153",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/357.htm",
+    "expected": "world",
+    "group": "real-153",
+    "split": "test",
+    "input_sha256": "3dd50f83b6dee60b7401c3faac7cdb2147cfbc7a77cfd7cae8b81bdd315a806f"
+  },
+  {
+    "id": "real-154",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/356.htm",
+    "expected": "world",
+    "group": "real-154",
+    "split": "test",
+    "input_sha256": "b2d18b7010f264c208c922ffdfc1bc83c328bd705b5c073ee9b27d1f2e5efbad"
+  },
+  {
+    "id": "real-157",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/350.htm",
+    "expected": "world",
+    "group": "real-157",
+    "split": "test",
+    "input_sha256": "3bb344a99279eb5cefd26589a9b86c56f11f31ab80754ce34d7dd63736e5a2a5"
+  },
+  {
+    "id": "real-158",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/349.htm",
+    "expected": "world",
+    "group": "real-158",
+    "split": "dev",
+    "input_sha256": "8c3d591dfd6e3fe080e88dd1cf1257803a9ea62d480f0de82848e12c065f7f4a"
+  },
+  {
+    "id": "real-159",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/348.htm",
+    "expected": "world",
+    "group": "real-159",
+    "split": "test",
+    "input_sha256": "1ea34a6f8b9dba201b3d8750a170ee0d7bbd9c60f922a6d6e4fa98e06cf5c621"
+  },
+  {
+    "id": "real-160",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/347.htm",
+    "expected": "world",
+    "group": "real-160",
+    "split": "dev",
+    "input_sha256": "4568b00374fc2957d47c04c4df2d321b20de6b2dbc3defa36b18365d5edcdd78"
+  },
+  {
+    "id": "real-161",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/346.htm",
+    "expected": "finance",
+    "group": "real-161",
+    "split": "test",
+    "input_sha256": "7bca8ff296f42892bbd653c505a1ebaeff6168d48876828200f7be60746e123c"
+  },
+  {
+    "id": "real-164",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/341.htm",
+    "expected": "tech",
+    "group": "real-164",
+    "split": "dev",
+    "input_sha256": "eb12082c2f559628134edae2a0484f94523d856e751470c5afd0575b44383736"
+  },
+  {
+    "id": "real-165",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/340.htm",
+    "expected": "tech",
+    "group": "real-165",
+    "split": "test",
+    "input_sha256": "c02ba9a598893aba3d2021cf3dcf45211ef6c653766594cefbe4009eee4d1f81"
+  },
+  {
+    "id": "real-167",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/336.htm",
+    "expected": "tech",
+    "group": "huawei-watch",
+    "split": "test",
+    "input_sha256": "ed8b01951c75e527efca1a8da427a6de535d840a212fd3d02848a122173c3549"
+  },
+  {
+    "id": "real-168",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/335.htm",
+    "expected": "world",
+    "group": "apple-watch",
+    "split": "dev",
+    "input_sha256": "fa4cab2b24f9facd49520543f135db8fc9cb9a0b08d5eef26d02508e4475a84e"
+  },
+  {
+    "id": "real-169",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/334.htm",
+    "expected": "world",
+    "group": "real-169",
+    "split": "test",
+    "input_sha256": "3a7ea651b9d523efebc40ca4d21bdfdd72f5268dbe19eee74eeaf2cf5557961b"
+  },
+  {
+    "id": "real-170",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/332.htm",
+    "expected": "world",
+    "group": "real-170",
+    "split": "test",
+    "input_sha256": "fc19a3906777cb57615878eb32b545f707fd05a64ff88d56dc63324650464df4"
+  },
+  {
+    "id": "real-171",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/331.htm",
+    "expected": "world",
+    "group": "real-171",
+    "split": "dev",
+    "input_sha256": "946393ebe36b6cab5dcc1bb4661f79eec376d9801db0dbcfd95448bfcab0e9c9"
+  },
+  {
+    "id": "real-172",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/329.htm",
+    "expected": "tech",
+    "group": "real-172",
+    "split": "dev",
+    "input_sha256": "86546d2544de3bc2e65d7670c93f1f86baac8ec4dfdd0d11fef3a870b1eb183a"
+  },
+  {
+    "id": "real-174",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/327.htm",
+    "expected": "finance",
+    "group": "real-174",
+    "split": "dev",
+    "input_sha256": "4b0b76e98c9053910b3c350412d9bb1b856fb0a07d632b2ecd2fc0ee0e1e4033"
+  },
+  {
+    "id": "real-177",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/324.htm",
+    "expected": "world",
+    "group": "real-177",
+    "split": "test",
+    "input_sha256": "d64da9889e442703a0a9320e1e64c45f778508599bf51775c2b4917445157c21"
+  },
+  {
+    "id": "real-178",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/323.htm",
+    "expected": "world",
+    "group": "real-178",
+    "split": "test",
+    "input_sha256": "8a98769f2a0d491a67ff67371031124b8e065d07c5a65ad0fdbb8b49a2662605"
+  },
+  {
+    "id": "real-179",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/320.htm",
+    "expected": "tech",
+    "group": "real-179",
+    "split": "test",
+    "input_sha256": "7f330af4bb5b64f07b868d478b5093847b9d38e7ce72cd72c13463e2bc5c0173"
+  },
+  {
+    "id": "real-180",
+    "source": "ithome",
+    "url": "https://www.ithome.com/1/027/318.htm",
+    "expected": "world",
+    "group": "real-180",
+    "split": "test",
+    "input_sha256": "34e26226bdbbe388fc36e09f5ff6fccd57812965ebf4d45a1f632198c447b55d"
+  },
+  {
+    "id": "rss-china-4",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732406.shtml",
+    "expected": "china",
+    "group": "rss-china-4",
+    "split": "dev",
+    "input_sha256": "6e55d842a5d414e2c172fecdae9d142327384708a6e2f818fa86281ce876d498"
+  },
+  {
+    "id": "rss-china-5",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732403.shtml",
+    "expected": "culture",
+    "group": "rss-china-5",
+    "split": "test",
+    "input_sha256": "71255b3dc156adee9bc951b329cd5611b477009f02ebbd29a4b0c50a23be4890"
+  },
+  {
+    "id": "rss-china-7",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732401.shtml",
+    "expected": "culture",
+    "group": "rss-china-7",
+    "split": "dev",
+    "input_sha256": "4cff06cd72e4f75da77258cbf2ffb315f45fcfb2d0309a69a5483a25f8be87f6"
+  },
+  {
+    "id": "rss-china-8",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/gn/2026/11-15/10732398.shtml",
+    "expected": "culture",
+    "group": "rss-china-8",
+    "split": "test",
+    "input_sha256": "7e125b3a94f2a9fb45ee7b684bcfcecddbeb3594d2ebc8b41deaf5c04e8f78b8"
+  },
+  {
+    "id": "rss-culture-0",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732392.shtml",
+    "expected": "culture",
+    "group": "rss-culture-0",
+    "split": "test",
+    "input_sha256": "eb757334b03d4a824c12a91764dabdd819960455c2292f9d29266618ef364ef1"
+  },
+  {
+    "id": "rss-culture-1",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732364.shtml",
+    "expected": "culture",
+    "group": "rss-culture-1",
+    "split": "dev",
+    "input_sha256": "c422cdb68f703a7bf95c1b7abda0489a0d5faab78ce52a42d55e55b204b89cd8"
+  },
+  {
+    "id": "rss-culture-2",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732348.shtml",
+    "expected": "entertainment",
+    "group": "rss-culture-2",
+    "split": "dev",
+    "input_sha256": "95c31b258a9d4b3c7fe27d204df8f5996caa4e3d3687e9d33f1e5c85598d6798"
+  },
+  {
+    "id": "rss-culture-3",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732339.shtml",
+    "expected": "culture",
+    "group": "rss-culture-3",
+    "split": "test",
+    "input_sha256": "08bcff785349fc270a81b0fe4338f42838427f8c40f81c37dac7df76c644cade"
+  },
+  {
+    "id": "rss-culture-4",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732242.shtml",
+    "expected": "entertainment",
+    "group": "rss-culture-4",
+    "split": "dev",
+    "input_sha256": "8c1a3351316be368341a01f58bf66cad34ab82f0c30d344271276f35ecfd5b15"
+  },
+  {
+    "id": "rss-culture-5",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-15/10732238.shtml",
+    "expected": "culture",
+    "group": "rss-culture-5",
+    "split": "test",
+    "input_sha256": "81f686abe65636f96f33c35bb14b6967de23009d5a7bbdc726b4ff773a25e0a4"
+  },
+  {
+    "id": "rss-culture-7",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732202.shtml",
+    "expected": "culture",
+    "group": "rss-culture-7",
+    "split": "test",
+    "input_sha256": "7e84acfa90db71b98bc0cb75b658ae550e15529fa50b2d569be9bac315f0048f"
+  },
+  {
+    "id": "rss-culture-9",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732018.shtml",
+    "expected": "culture",
+    "group": "rss-culture-9",
+    "split": "dev",
+    "input_sha256": "7789aa0f2dd99d338ca896cfee699b018e44659d3be320d3efb9c6b984452bfe"
+  },
+  {
+    "id": "rss-culture-10",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-14/10732016.shtml",
+    "expected": "culture",
+    "group": "rss-culture-10",
+    "split": "test",
+    "input_sha256": "850db0eefb24655f1e23c724d90adf31bf750de625da45dac6610979fd3d65ec"
+  },
+  {
+    "id": "rss-culture-11",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/cul/2026/11-14/10731937.shtml",
+    "expected": "entertainment",
+    "group": "rss-culture-11",
+    "split": "test",
+    "input_sha256": "9b264407250e0c25eefb1d81d009ef4139735d8d7330533ea2042a021b161f16"
+  },
+  {
+    "id": "rss-education-0",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-15/10732224.shtml",
+    "expected": "education",
+    "group": "rss-education-0",
+    "split": "dev",
+    "input_sha256": "63fc01a6ee24040c3fe9bee5b964c88e7887ea233777f40d1857bd05e7c8d9cd"
+  },
+  {
+    "id": "rss-education-1",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731737.shtml",
+    "expected": "education",
+    "group": "rss-education-1",
+    "split": "test",
+    "input_sha256": "1760a2a88eeae1a8c9999e3d343c494f7b8cdfc3ca5a850cb7b6970306fccdd1"
+  },
+  {
+    "id": "rss-education-2",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731671.shtml",
+    "expected": "education",
+    "group": "rss-education-2",
+    "split": "test",
+    "input_sha256": "be4534ed8d6ca89df124e98aee4887a653a611ab8dfac5b706ef247611cee4ec"
+  },
+  {
+    "id": "rss-education-4",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731474.shtml",
+    "expected": "education",
+    "group": "rss-education-4",
+    "split": "test",
+    "input_sha256": "8c32aaa5612898d08ecc21c04ff882f46e32fd45fafd211b10b9642271cddb53"
+  },
+  {
+    "id": "rss-education-5",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731392.shtml",
+    "expected": "education",
+    "group": "rss-education-5",
+    "split": "test",
+    "input_sha256": "eec316b4c1bfaf4a4562efe7d2190a773ee306b011a01978e74d947130b4ac0b"
+  },
+  {
+    "id": "rss-education-6",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731294.shtml",
+    "expected": "education",
+    "group": "rss-education-6",
+    "split": "test",
+    "input_sha256": "df6ab410c5bee190c6d801e9b614dc3e57b08ed0aeba995385fa96e75206f93f"
+  },
+  {
+    "id": "rss-education-8",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731080.shtml",
+    "expected": "education",
+    "group": "rss-education-8",
+    "split": "dev",
+    "input_sha256": "df32db13976845569994d0f5425cb8db004b2676aabf135279ec9883344f63e3"
+  },
+  {
+    "id": "rss-education-9",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731062.shtml",
+    "expected": "education",
+    "group": "rss-education-9",
+    "split": "dev",
+    "input_sha256": "7f6027c5c920703d695f93ca7e4a2884bd396710586163a8e36b6b3a1eb2c200"
+  },
+  {
+    "id": "rss-education-10",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731056.shtml",
+    "expected": "society",
+    "group": "rss-education-10",
+    "split": "dev",
+    "input_sha256": "16fd9d67c2f36525afdb6c690bdbeecbd3c1011d800ac048bf1cd769d9c58d60"
+  },
+  {
+    "id": "rss-education-11",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/edu/2026/11-12/10731023.shtml",
+    "expected": "education",
+    "group": "rss-education-11",
+    "split": "test",
+    "input_sha256": "fef089394dcb4acc6f4fe007d7a65291711137864a9b4f66527fa694dd1efbf4"
+  },
+  {
+    "id": "rss-sports-0",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732443.shtml",
+    "expected": "sports",
+    "group": "rss-sports-0",
+    "split": "dev",
+    "input_sha256": "e1928b363e53d9fda91922f77994cb2e54a378f247cb5d9b5a9299f964ec6150"
+  },
+  {
+    "id": "rss-sports-1",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732438.shtml",
+    "expected": "sports",
+    "group": "rss-sports-1",
+    "split": "dev",
+    "input_sha256": "592480a6d1491bc3ac9306d9839f355b7df39b6ac231ce42b667912b1dcbca29"
+  },
+  {
+    "id": "rss-sports-2",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732386.shtml",
+    "expected": "sports",
+    "group": "rss-sports-2",
+    "split": "test",
+    "input_sha256": "59b2e8f38b13dfb73003e148cfed85ecc904e3ce53fe26e405b0ac1f8b626272"
+  },
+  {
+    "id": "rss-sports-3",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732356.shtml",
+    "expected": "sports",
+    "group": "rss-sports-3",
+    "split": "dev",
+    "input_sha256": "fc9cf718cf184c9be33e25d84f2f5a35c3f59e7d0b232d6927f6ee28c8ec3032"
+  },
+  {
+    "id": "rss-sports-4",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732334.shtml",
+    "expected": "sports",
+    "group": "rss-sports-4",
+    "split": "test",
+    "input_sha256": "be1649964c4261b5d3f51422da904f6bb28f7a62474b8c9ccf9b7014a4aaea60"
+  },
+  {
+    "id": "rss-sports-5",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732328.shtml",
+    "expected": "world",
+    "group": "rss-sports-5",
+    "split": "test",
+    "input_sha256": "4d252758e81cb0a8fc456563ada250b4889cd2274b7bf180e79d4a1d4be2d41a"
+  },
+  {
+    "id": "rss-sports-6",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732237.shtml",
+    "expected": "sports",
+    "group": "rss-sports-6",
+    "split": "test",
+    "input_sha256": "135a93de814f47f31b2621f075556179dbb46b94fd91b5f6ae585f0ead68df87"
+  },
+  {
+    "id": "rss-sports-7",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-15/10732211.shtml",
+    "expected": "sports",
+    "group": "rss-sports-7",
+    "split": "test",
+    "input_sha256": "9ba926ef8f2500f9b833a66a98decdeef8fb308e7010f47ea60bb8792dcfd70c"
+  },
+  {
+    "id": "rss-sports-8",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732205.shtml",
+    "expected": "sports",
+    "group": "rss-sports-8",
+    "split": "dev",
+    "input_sha256": "b154be5e6bcc3c920f96e05f893ce6122e613e2aa1c07851e0b56ac6b4e4c111"
+  },
+  {
+    "id": "rss-sports-9",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732120.shtml",
+    "expected": "sports",
+    "group": "rss-sports-9",
+    "split": "test",
+    "input_sha256": "f0197febd66a52b8d58d7ef6d79645f6c7f3500a457795c46d5553a1df8f0561"
+  },
+  {
+    "id": "rss-sports-10",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732098.shtml",
+    "expected": "sports",
+    "group": "rss-sports-10",
+    "split": "test",
+    "input_sha256": "82f3d6e07ae961265c245687fa60423d7753a146f524ad2ec6f57e6468ac62ae"
+  },
+  {
+    "id": "rss-sports-11",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/ty/2026/11-14/10732063.shtml",
+    "expected": "world",
+    "group": "rss-sports-11",
+    "split": "test",
+    "input_sha256": "0b57c61e550620d20d1557daa0c68706cfb36be76d2b5a79c2978c9567022c81"
+  },
+  {
+    "id": "rss-health-0",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-06/10581992.shtml",
+    "expected": "health",
+    "group": "rss-health-0",
+    "split": "dev",
+    "input_sha256": "ec965c18d0b85972f513e3202ec8223b9947d60c5f2faf487b6dabe33f1528a3"
+  },
+  {
+    "id": "rss-health-2",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-05/10581560.shtml",
+    "expected": "health",
+    "group": "rss-health-2",
+    "split": "dev",
+    "input_sha256": "a749b20e8f059bd7fed67e5dec44ce7a4b0e0e8137d6d9e3bb7e232f12c5d38b"
+  },
+  {
+    "id": "rss-health-3",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-05/10581222.shtml",
+    "expected": "health",
+    "group": "rss-health-3",
+    "split": "test",
+    "input_sha256": "ff0f3a4afa082f79c44d8b8d5975e5f4711acc7d893783faeace8b236c69e99b"
+  },
+  {
+    "id": "rss-health-4",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-04/10581097.shtml",
+    "expected": "health",
+    "group": "rss-health-4",
+    "split": "test",
+    "input_sha256": "b7866320dcdfae358c7848a62978987a621ebc4b663b1adb538f621eaeead36b"
+  },
+  {
+    "id": "rss-health-5",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-04/10581059.shtml",
+    "expected": "health",
+    "group": "rss-health-5",
+    "split": "test",
+    "input_sha256": "3f3f47ceb2d250968b35f334bebe5d2383e67a9c2edbd117ea9c2c6c02efdb1f"
+  },
+  {
+    "id": "rss-health-6",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-04/10581031.shtml",
+    "expected": "health",
+    "group": "rss-health-6",
+    "split": "test",
+    "input_sha256": "3e968dae172aedf446a3fb8a6fa070c18a810892a2944fa57d0b845842c8a0a9"
+  },
+  {
+    "id": "rss-health-8",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-04/10580583.shtml",
+    "expected": "health",
+    "group": "rss-health-8",
+    "split": "test",
+    "input_sha256": "dcb486aa57e10adb83a06072696e793e0a53ad98af655125cc5b727c8687a89c"
+  },
+  {
+    "id": "rss-health-9",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-04/10580528.shtml",
+    "expected": "health",
+    "group": "rss-health-9",
+    "split": "test",
+    "input_sha256": "008e8fd5e347a91aac53e982fdce79a9fdd6e350c64dc1af4bff235b58476a9f"
+  },
+  {
+    "id": "rss-health-10",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-03/10580312.shtml",
+    "expected": "health",
+    "group": "rss-health-10",
+    "split": "dev",
+    "input_sha256": "e652d953a337f1451e8956d85bdb5500b767abaf785be015ffa43c59ea7228e4"
+  },
+  {
+    "id": "rss-health-11",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/jk/2026/03-03/10580016.shtml",
+    "expected": "health",
+    "group": "rss-health-11",
+    "split": "test",
+    "input_sha256": "c38b0f2fb9fed294e3663c903da560c66c7c06ab5f3db8a6c15d9b35f5c575d1"
+  },
+  {
+    "id": "rss-life-3",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/life/2026/11-13/10731712.shtml",
+    "expected": "life",
+    "group": "rss-life-3",
+    "split": "test",
+    "input_sha256": "41c35d108ea025042449ec3414b13cf8e06c0f99ddeda6b7380df7bcf6f00e7f"
+  },
+  {
+    "id": "rss-life-7",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/life/2026/11-13/10731288.shtml",
+    "expected": "life",
+    "group": "rss-life-7",
+    "split": "test",
+    "input_sha256": "2172a106e5ab94def0bf305de329866e993763f5b58987d2d8fbccb441ab02f9"
+  },
+  {
+    "id": "rss-life-9",
+    "source": "中新网",
+    "url": "https://www.chinanews.com.cn/life/2026/11-12/10730860.shtml",
+    "expected": "life",
+    "group": "rss-life-9",
+    "split": "dev",
+    "input_sha256": "eca1b5281136181a8a8d2d3ab7e6a5b058efabe2e2be9f6de58f114694220ac5"
+  }
+]

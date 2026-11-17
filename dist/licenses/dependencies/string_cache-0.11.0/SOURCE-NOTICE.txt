@@ -1,0 +1,4 @@
+Package: string_cache 0.11.0
+Authors: The Servo Project Developers
+Repository: https://github.com/servo/string-cache
+Unmodified source: https://crates.io/api/v1/crates/string_cache/0.11.0/download

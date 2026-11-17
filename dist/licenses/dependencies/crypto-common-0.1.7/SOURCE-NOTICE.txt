@@ -1,0 +1,4 @@
+Package: crypto-common 0.1.7
+Authors: RustCrypto Developers
+Repository: https://github.com/RustCrypto/traits
+Unmodified source: https://crates.io/api/v1/crates/crypto-common/0.1.7/download

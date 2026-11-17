@@ -1,0 +1,4 @@
+Package: multiversion_no_op 1.0.0
+Authors: Henri Sivonen <hsivonen@hsivonen.fi>
+Repository: https://github.com/hsivonen/multiversion_no_op
+Unmodified source: https://crates.io/api/v1/crates/multiversion_no_op/1.0.0/download

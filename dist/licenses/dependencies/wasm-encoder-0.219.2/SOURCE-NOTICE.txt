@@ -1,0 +1,4 @@
+Package: wasm-encoder 0.219.2
+Authors: Nick Fitzgerald <fitzgen@gmail.com>
+Repository: https://github.com/bytecodealliance/wasm-tools/tree/main/crates/wasm-encoder
+Unmodified source: https://crates.io/api/v1/crates/wasm-encoder/0.219.2/download
