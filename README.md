@@ -23,9 +23,6 @@ PocketNews-AstroBox-Plugin/
 |-- index.txt
 |-- README.md
 |-- LICENSE
-|-- scripts/
-|   |-- build.py
-|   `-- package-source.py
 `-- dist/
     |-- manifest.json
     |-- pocket_news.wasm
