@@ -1,6 +1,6 @@
 # 随身新闻 · AstroBox 插件
 
-为小米手环 10 和小米手环 10 Pro 的随身新闻快应用获取、分类并推送新闻。当前版本为 `1.0.0`，使用 AstroBox API Level 4，清单 WASI Version 为 `3`。
+为小米手环 10 和小米手环 10 Pro 的随身新闻快应用获取、分类并推送新闻。当前版本为 `1.0.1`，使用 AstroBox API Level 4，清单 WASI Version 为 `3`。
 
 开发者：一個小果冻、Nyx233。
 
@@ -12,7 +12,7 @@
 
 ## 安装
 
-下载 [PocketNews-1.0.0.abp](https://github.com/Nyx-233/PocketNews-AstroBox-Plugin/releases/download/v1.0.0/PocketNews-1.0.0.abp)，在支持 API Level 4 的 AstroBox 中导入，并安装配套的随身新闻手环快应用。
+下载 [PocketNews-1.0.1.abp](https://github.com/Nyx-233/PocketNews-AstroBox-Plugin/releases/download/v1.0.1/PocketNews-1.0.1.abp)，在支持 API Level 4 的 AstroBox 中导入，并安装配套的随身新闻手环快应用。
 
 ## 仓库结构
 
@@ -23,17 +23,30 @@ PocketNews-AstroBox-Plugin/
 |-- index.txt
 |-- README.md
 |-- LICENSE
+|-- scripts/
+|   |-- build.py
+|   `-- package-source.py
 `-- dist/
     |-- manifest.json
     |-- pocket_news.wasm
-    |-- icon.png
+    `-- icon.png
 ```
 
-`index.txt` 的内容为 `dist`。插件市场需要的清单、WASM、图标和附加许可证均在该目录中，分类模型已嵌入 WASM。
+`index.txt` 的内容为 `dist`。插件市场需要的清单、WASM 和图标均在该目录中，分类模型已嵌入 WASM。
+
+## 重新打包
+
+在本仓库根目录运行以下命令，即可用现有 WASM 生成 ABP，仅需 Python 3：
+
+```powershell
+py -3 scripts/build.py --package
+```
+
+ABP 仅包含清单、WASM 和图标，清单的 `additional_files` 为空，不包含 `licenses/`。完整源码 ZIP 由开发工程生成。
 
 ## 完整源码
 
-[下载 1.0.0 完整源码 ZIP](https://github.com/Nyx-233/PocketNews-AstroBox-Plugin/releases/download/v1.0.0/PocketNews-1.0.0-source.zip)。源码包包含 Rust 源码、分类模型、WIT、训练策略、构建脚本、测试及第三方来源说明，可独立重新构建。
+[下载 1.0.1 完整源码 ZIP](https://github.com/Nyx-233/PocketNews-AstroBox-Plugin/releases/download/v1.0.1/PocketNews-1.0.1-source.zip)。源码包包含 Rust 源码、分类模型、WIT、训练策略、构建脚本、测试及项目 LICENSE，可独立重新构建。
 
 需要 Python 3、Rust/Cargo 和 `wasm32-wasip2` 编译目标。解压源码包后，在源码根目录执行：
 
