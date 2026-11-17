@@ -1,11 +1,11 @@
 {
-  "name": "随身新闻",
+  "name": "随身新闻同步器",
   "icon": "icon.png",
   "version": "1.0.0",
   "description": "获取最新最热新闻并推送到手环",
   "author": "一個小果冻、Nyx233",
   "website": "",
-  "entry": "pocket_news.wasm",
+  "entry": "pocket_news_sync.wasm",
   "wasi_version": 3,
   "api_level": 4,
   "permissions": [
