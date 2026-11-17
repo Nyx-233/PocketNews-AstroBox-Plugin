@@ -27,7 +27,6 @@ PocketNews-AstroBox-Plugin/
     |-- manifest.json
     |-- pocket_news.wasm
     |-- icon.png
-    `-- licenses/
 ```
 
 `index.txt` 的内容为 `dist`。插件市场需要的清单、WASM、图标和附加许可证均在该目录中，分类模型已嵌入 WASM。
@@ -45,4 +44,4 @@ py -3 scripts/build.py --package
 
 安装包与完整源码均可在 [Releases](https://github.com/Nyx-233/PocketNews-AstroBox-Plugin/releases) 获取。
 
-项目采用 [AGPL v3](LICENSE)，随包第三方许可证见 [dist/licenses/](dist/licenses/)，完整来源说明见源码包内的 `THIRD_PARTY_NOTICES.md`。新闻内容版权归原发布者。
+项目采用 [AGPL v3](LICENSE)。新闻内容版权归原发布者。
