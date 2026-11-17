@@ -1,7 +1,7 @@
 {
   "name": "随身新闻",
   "icon": "icon.png",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "获取最新最热新闻并推送到手环",
   "author": "一個小果冻、Nyx233",
   "website": "",
